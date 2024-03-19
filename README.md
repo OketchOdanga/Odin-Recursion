@@ -1,3 +1,3 @@
-##Odin -Recursion
-#Fibonacci 
-#Merge Sort Algorithm
+##OdinRecursion
+-Fibonacci 
+-Merge Sort Algorithm
